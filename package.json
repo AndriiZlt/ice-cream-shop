@@ -2,14 +2,14 @@
   "name": "devhunt",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AndriiZlt.github.io/ice-cream-shop/",
+  "homepage": "https://petekostrytsya.github.io/DevHunt",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /DevHunt/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndriiZlt/ice-cream-shop.git"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
